@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^18.0.6"
+    "@slack/web-api": "^7.0.2",
+    "@types/node": "^18.0.6",
+    "axios": "^1.6.8"
   }
 }
